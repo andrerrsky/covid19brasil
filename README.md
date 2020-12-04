@@ -1,4 +1,5 @@
 # App COVID 19 Brasil
+![Alt text](./assets/logo.png "COVID 19 Brasil")
 App desenvolvido em JAVA para Android com dados sobre COVID-19 no Brasil atualizados em tempo real através da API Brasil.IO.
 
 ## Contexto
