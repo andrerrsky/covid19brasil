@@ -1,6 +1,8 @@
-# App COVID 19 Brasil
-![Alt text](./assets/logo.png "COVID 19 Brasil")
-App desenvolvido em JAVA para Android com dados sobre COVID-19 no Brasil atualizados em tempo real através da API Brasil.IO.
+<p align="center">
+  <p># App COVID 19 Brasil</p>
+  <img src="./assets/logo.png" width="350" title="COVID 19 Brasil">
+  <p>App desenvolvido em JAVA para Android com dados sobre COVID-19 no Brasil atualizados em tempo real através da API Brasil.IO.</p>
+</p>
 
 ## Contexto
 A pandemia de COVID-19, também conhecida como pandemia de coronavírus, é uma pandemia em curso de COVID-19, uma doença respiratória aguda causada pelo coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2). A doença foi identificada pela primeira vez em Wuhan, na província de Hubei, República Popular da China, em 1 de dezembro de 2019, mas o primeiro caso foi reportado em 31 de dezembro do mesmo ano. Acredita-se que o vírus tenha uma origem zoonótica, porque os primeiros casos confirmados tinham principalmente ligações ao Mercado Atacadista de Frutos do Mar de Huanan, que também vendia animais vivos. Em 11 de março de 2020, a Organização Mundial da Saúde declarou o surto uma pandemia. Até 4 de dezembro de 2020, pelo menos 65 132 317 casos da doença foram confirmados em pelo menos 191 países e territórios, com cerca de 1 504 443 fatalidades reportadas e 41 862 236 pessoas curadas.
