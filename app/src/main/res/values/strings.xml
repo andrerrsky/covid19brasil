@@ -1,0 +1,78 @@
+<resources>
+
+    <string name="app_name">COVID 19 Brasil</string>
+    <string name="ok">Ok</string>
+    <string name="opt_continue">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="alert">Processando</string>
+    <string name="rate">Avaliar</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sair</string>
+    <string name="contact">Contato</string>
+    <string name="yes">Sim</string>
+    <string name="contact_subject">Contato App COVID 19 Brasil</string>
+    <string name="dev">Desenvolvido por André Roberto</string>
+    <string name="dev_email">andrerrsky@gmail.com\nFonte dos dados: brasil.io/covid19</string>
+    <string name="email_client_error">Não há clientes de email instalados.</string>
+
+    <string-array name="states">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+
+    <string-array name="states_full">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+
+</resources>
