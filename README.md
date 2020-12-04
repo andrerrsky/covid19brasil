@@ -1,8 +1,10 @@
+# App COVID 19 Brasil
+
 <p align="center">
-  <p># App COVID 19 Brasil</p>
-  <img src="./assets/logo.png" width="350" title="COVID 19 Brasil">
-  <p>App desenvolvido em JAVA para Android com dados sobre COVID-19 no Brasil atualizados em tempo real através da API Brasil.IO.</p>
+  <img src="./assets/logo.png" width="150" title="COVID 19 Brasil">
 </p>
+
+App desenvolvido em JAVA para Android com dados sobre COVID-19 no Brasil atualizados em tempo real através da API Brasil.IO.
 
 ## Contexto
 A pandemia de COVID-19, também conhecida como pandemia de coronavírus, é uma pandemia em curso de COVID-19, uma doença respiratória aguda causada pelo coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2). A doença foi identificada pela primeira vez em Wuhan, na província de Hubei, República Popular da China, em 1 de dezembro de 2019, mas o primeiro caso foi reportado em 31 de dezembro do mesmo ano. Acredita-se que o vírus tenha uma origem zoonótica, porque os primeiros casos confirmados tinham principalmente ligações ao Mercado Atacadista de Frutos do Mar de Huanan, que também vendia animais vivos. Em 11 de março de 2020, a Organização Mundial da Saúde declarou o surto uma pandemia. Até 4 de dezembro de 2020, pelo menos 65 132 317 casos da doença foram confirmados em pelo menos 191 países e territórios, com cerca de 1 504 443 fatalidades reportadas e 41 862 236 pessoas curadas.
@@ -23,6 +25,8 @@ A partir disso foi criada a API e dataset do Brasil.IO com boletins epidemiológ
 Com o objetivo de disponibilizar um exemplo de consumo da API criada por eles para Android em JAVA (nativo) desenvolvi esse app, sinta-se a vontade para estudar e utilizar, espero que ajude.
 
 O consumo da API é realizado através da biblioteca Volley com.android.volley:volley:1.1.1 (https://developer.android.com/training/volley?hl=pt-br);
+
+<img src="./assets/SS (1).jpeg" width="23%"></img> <img src="./assets/SS (2).jpeg" width="23%"></img> <img src="./assets/SS (3).jpeg" width="23%"></img> <img src="./assets/SS (4).jpeg" width="23%"></img>
 
 ## Instruções e outras informações
 - Basta clonar e abrir no Android Studio 4.0.1 ou superior;
